@@ -62,31 +62,7 @@ A solution is already there, why don't we use it?
 **Please don't refer to this project as "jammer", that totally undermines the real purpose of this project!**
 If you do, it only proves that you didn't understand anything of what this project stands for. Publishing content about this without a proper explaination shows that you only do it for the clicks, fame and/or money and have no respect for intellectual property, the community behind it and the fight for a better WiFi standard!  
 
-## Getting Started
-
-Visit our new [Wiki](https://github.com/spacehuhn/esp8266_deauther/wiki) on how to recreate this project and use it.  
-Happy Hacking!
-
-## Credits
-A huge thanks to:
-- [@deantonious](http://github.com/deantonious)
-- [@jLynx](https://github.com/jLynx)
-- [@lspoplove](https://github.com/lspoplove)
-- [@schinfo](https://github.com/schinfo)
-- [@tobozo](https://github.com/tobozo)
-- [@xdavidhu](https://github.com/xdavidhu)
-- [@PwnKitteh](https://github.com/PwnKitteh)
-
-for helping out with various things regarding this project and keeping it alive!  
-
-I also want to thank Espressif and their community for this awesome chip and all the software and hardware projects around it and the countless tutorials you can find online!  
-
-Shoutout to everyone working on the libraries used for this project:
-- [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
-- [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
-- [LinkedList](https://github.com/ivanseidel/LinkedList)
-
-Also thanks to everyone that supports this project by [donating](http://spacehuhn.de/donate), being my [patron](http://patreon.com/spacehuhn) or buying one of the [official Deauther boards](https://www.tindie.com/stores/lspoplove) from DSTIKE.  
+ 
 
 ## License 
 
