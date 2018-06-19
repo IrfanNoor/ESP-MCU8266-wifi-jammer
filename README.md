@@ -2,21 +2,12 @@
 
 <p align="center"><img alt="PICTURE logo" src="https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/deauther_logo.png" width="200"></p>
 
-<p align="center">
-🐦 <a href="https://twitter.com/spacehuhn">Twitter</a>
-| 📺 <a href="https://www.youtube.com/channel/UCFmjA6dnjv-phqrFACyI8tw">YouTube</a>
-| 🌍 <a href="https://spacehuhn.de">spacehuhn.de</a><br>
 <br>
 <b>Scan for WiFi devices, block selected connections, create dozens of networks and confuse WiFi scanners!<br><br>
-Click <a href="https://github.com/spacehuhn/esp8266_deauther/wiki/Installation">here</a> for the installation tutorial.<br>
-  Click <a href="https://github.com/spacehuhn/esp8266_deauther/releases">here</a> for the .bin files.<br><br>
-Support the development of this project by purchasing one of the <a href="https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices">official deauther boards</a>.<br/>
-Or become a patron on <a href="https://patreon.com/spacehuhn" target="_blank">patreon.com/spacehuhn</a>.<br>
-Also available: <a href="https://www.tindie.com/products/Spacehuhn/spacehuhn-stickers/">Stickers</a></b>!
 </p>
 
 ## What is New
-[Here is a quick video about what is new](https://youtu.be/6oRmm3xfp6U)  
+  
 Version 2.0:
 - Completly rewritten code base for better performance and later enhancements
 - Custom Deauther SDK for easy compiling using Arduino
