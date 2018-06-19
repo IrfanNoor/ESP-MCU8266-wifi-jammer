@@ -20,7 +20,7 @@ Version 2.0:
 - Added [PacketMonitor](https://github.com/spacehuhn/PacketMonitor) to display UI
 - Deauth detection when scanning
 - RGB LED support for a quick indication what the device is doing (attacking, scanning, ...)
-- Better documentation on the new [wiki](https://github.com/spacehuhn/esp8266_deauther/wiki)
+
 
 ## About this project
 This software allows you to easily perform a variety of actions to test 802.11 wireless networks by using an inexpensive ESP8266 WiFi SoC (System On A Chip).  
@@ -35,19 +35,15 @@ Feel free to test your hardware out, annoy these companies with the problem, sha
 This project is also a great way to learn more about WiFi, micro controllers, Arduino, hacking and electronics/programming in general.  
 **But please use this tool responsibly and do not use it against others without their permission!**
 
-The difference between deauthing and jamming: [click me](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#difference-between-jammer-and-deauther)
+The difference between deauthing and jamming: 
+While a jammer just creates noise on a specific frequency range (i.e. 2.4GHz), a deauthentication attack is only possible due to a vulnerability in the WiFi (802.11) standard. The deauther does not interfer with any frequencies, it is just sending a few WiFi packets that let certain devices disconnect. That enables you to specifically select every target. A jammer just blocks everything within a radius and is therefore highly illegal to use.
 
 ## Official Deauther Boards
 
 ![PICTURE DSTIKE Deauther OLED Board](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/DSTIKE_Deauther_Board.jpg)
 
-If you want to support the development of this project, you can buy one of the offical boards by DSTIKE (Travis Lin) on following sites:  
-- [Tindie](https://tindie.com/stores/lspoplove)  
-- [AliExpress](https://dstike.aliexpress.com/store/2996024)  
-- [Taobao](https://shop135375846.taobao.com)  
 
 Those boards are optimized for this project, ready to use and come preflashed with the Deauther software!  
-For more details visit the [Wiki](https://github.com/spacehuhn/esp8266_deauther/wiki) under [Supported Devices](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices).  
 
 ## Disclaimer
 This project is a proof of concept for testing and educational purposes.  
